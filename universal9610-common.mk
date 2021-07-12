@@ -46,9 +46,9 @@ PRODUCT_PACKAGES += \
     init.samsung.rc \
     init.usb_accessory.rc
 
-# LiveDisplay
-PRODUCT_PACKAGES += \
-    lineage.livedisplay@2.0-service.samsung-exynos
+
+
+
 
 # LPM
 PRODUCT_PACKAGES += \
